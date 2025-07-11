@@ -15,4 +15,5 @@ cv2.imshow("color image",image1_color)
 blank=np.zeros([500,375],dtype='uint8')
 
 cv2.imshow("blank image",blank)
+
 cv2.waitKey(0)
